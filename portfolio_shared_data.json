@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "image": "myProfile.jpg",
+    "name": "Sena Akbulut Kur\u00e7enli",
+    "social": [
+      {
+        "class": "fab fa-github",
+        "name": "github",
+        "url": "https://github.com/senakbulut"
+      },
+      {
+        "class": "fab fa-linkedin",
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/senaakbulut"
+      }
+    ],
+    "titles": [
+      "Front-end Developer"
+    ]
+  },
+  "skills": {
+    "icons": [
+      {
+        "class": "devicon-vuejs-plain",
+        "level": "60",
+        "name": "Vue Js"
+      },
+      {
+        "class": "devicon-react-plain",
+        "level": "80",
+        "name": "React Js"
+      },
+      {
+        "class": "devicon-nextjs-plain",
+        "level": "65",
+        "name": "Next Js"
+      },
+      {
+        "class": "devicon-nuxtjs-plain",
+        "level": "65",
+        "name": "Nuxt Js"
+      },
+      {
+        "class": "devicon-typescript-plain",
+        "level": "90",
+        "name": "TypeScript"
+      },
+      {
+        "class": "devicon-javascript-plain",
+        "level": "70",
+        "name": "JavaScript"
+      },
+      {
+        "class": "devicon-html5-plain",
+        "level": "95",
+        "name": "HTML 5"
+      },
+      {
+        "class": "devicon-css3-plain",
+        "level": "95",
+        "name": "CSS 3"
+      },
+      {
+        "class": "devicon-sass-original",
+        "level": "75",
+        "name": "Sass"
+      },
+      {
+        "class": "devicon-bootstrap-plain",
+        "level": "85",
+        "name": "Bootstrap"
+      },
+      {
+        "class": "devicon-tailwindcss-plain",
+        "level": "85",
+        "name": "Tailwind"
+      },
+      {
+        "class": "devicon-axios-plain",
+        "level": "85",
+        "name": "Axios"
+      },
+      {
+        "class": "devicon-vuetify-plain",
+        "level": "85",
+        "name": "Vuetify"
+      },
+      {
+        "class": "devicon-wordpress-plain",
+        "level": "85",
+        "name": "Elementor"
+      },
+      {
+        "class": "devicon-materialui-plain",
+        "level": "85",
+        "name": "Material UI"
+      },
+      {
+        "class": "devicon-pinia-plain",
+        "level": "85",
+        "name": "Pinia"
+      },
+      {
+        "class": "devicon-contextapi-plain",
+        "level": "85",
+        "name": "Context API"
+      },
+      {
+        "class": "devicon-restapi-plain",
+        "level": "85",
+        "name": "REST API"
+      },
+      {
+        "class": "devicon-webflow-plain",
+        "level": "85",
+        "name": "Webflow"
+      }
+    ]
+  }
+}

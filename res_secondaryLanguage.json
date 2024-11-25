@@ -1,0 +1,213 @@
+{
+  "basic_info": {
+    "description": "\ud83d\udc4b Frontend alan\u0131nda kendimi s\u00fcrekli geli\u015ftiren ve her zaman yeni beceriler \u00f6\u011frenmeye hevesli bir bilgisayar m\u00fchendisiyim. React Js ve Vue Js ile \u00e7e\u015fitli projelerde yer ald\u0131m ve kendimi bu alanda geli\u015ftirdim.",
+    "description_header": "Merhaba",
+    "section_name": {
+      "about": "Hakk\u0131mda",
+      "experience": "Deneyimler",
+      "projects": "Projeler",
+      "skills": "Beceriler"
+    }
+  },
+  "experience": [
+    {
+      "company": "Ottoo",
+      "mainTech": [
+        "Vue Js"
+      ],
+      "technologies": [
+        "Vue Js",
+        "Quasar",
+        "Pinia",
+        "Nuxt Js",
+        "Typescript",
+        "Vuetify",
+        "Tailwind CSS"
+      ],
+      "title": "Front-End Developer",
+      "years": "03.2023 - \u015fu anda"
+    },
+    {
+      "company": "Radity",
+      "mainTech": [
+        "React Js"
+      ],
+      "technologies": [
+        "React Js",
+        "Next Js",
+        "Vue Js",
+        "Nuxt Js",
+        "Typescript"
+      ],
+      "title": "Front-End Developer",
+      "years": "09.2021 - 11.2022"
+    },
+    {
+      "company": "Foreks Digital Solutions",
+      "mainTech": [
+        "Vue Js"
+      ],
+      "technologies": [
+        "Vue Js",
+        "CSS"
+      ],
+      "title": "Front-End Intern",
+      "years": "02.2021 - 03.2021"
+    },
+    {
+      "company": "Nokia",
+      "mainTech": [
+        "Docker"
+      ],
+      "technologies": [
+        "Docker",
+        "Cisco Packet Tracer",
+        "Wireshark"
+      ],
+      "title": "Intern",
+      "years": "08.2020 - 09.2020"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Automotive Insights, otomotiv sekt\u00f6r\u00fcndeki acentelere analitik ara\u00e7lar sa\u011flayan bir projedir. Kullan\u0131c\u0131lar\u0131na veri analizi ve personel performans y\u00f6netimi gibi \u00f6zelliklerle kullan\u0131\u015fl\u0131 bir g\u00f6sterge paneli sunar.",
+      "images": [
+        "images/projects/automotiveinsights.png",
+        "images/projects/automotiveinsights.png"
+      ],
+      "startDate": "2024",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue Js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        },
+        {
+          "class": "devicon-vuetify-plain",
+          "name": "Vuetify"
+        }
+      ],
+      "title": "Automotive Insights",
+      "url": ""
+    },
+    {
+      "description": "Marinzon, gemi \u00fcr\u00fcnlerinin sat\u0131\u015f\u0131n\u0131 sa\u011flayan bir e-pazarlama sitesidir. Bu web sitesinin yeni \u00f6zelliklerini en ba\u015f\u0131ndan beri geli\u015ftirme f\u0131rsat\u0131m oldu.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "startDate": "2024",
+      "technologies": [
+        {
+          "class": "devicon-nuxtjs-plain",
+          "name": "Nuxt Js"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        }
+      ],
+      "title": "Marinzon",
+      "url": ""
+    },
+    {
+      "description": "Remigo, m\u00fc\u015fterilerin ve emlak\u00e7\u0131lar\u0131n birbirleriyle konu\u015fabildi\u011fi ve listelemelerle \u00e7e\u015fitli i\u015flemler ger\u00e7ekle\u015ftirebildi\u011fi bir platformdur. Bu projede, Frontend taraf\u0131nda Vue Js, Javascript, Quasar ve Pinia ile emlak web sitesi geli\u015ftiren bir ekibin Frontend geli\u015ftiricisi olarak yer ald\u0131m.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "startDate": "2023",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue Js"
+        },
+        {
+          "class": "devicon-quasar-plain",
+          "name": "Quasar"
+        },
+        {
+          "class": "devicon-pinia-plain",
+          "name": "Pinia"
+        }
+      ],
+      "title": "Remigo",
+      "url": ""
+    },
+    {
+      "description": "Bu projede Frontend taraf\u0131nda React Js, TypeScript ve Material UI kullanarak m\u00fc\u015fteri bazl\u0131 \u00f6zelle\u015ftirilebilir sigorta \u00fcr\u00fcnleri geli\u015ftiren bir ekipte Frontend geli\u015ftiricisi olarak yer ald\u0131m.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "startDate": "2022",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        }
+      ],
+      "title": "Insurance Portal",
+      "url": ""
+    },
+    {
+      "description": "Bu projede, Frontend taraf\u0131nda React Js, Next Js ve Typescript ile moloz geri d\u00f6n\u00fc\u015f\u00fcm\u00fcyle ilgili \u00fcr\u00fcnler geli\u015ftiren bir Frans\u0131z \u015firketine ait bir ekipte Frontend geli\u015ftiricisi olarak yer ald\u0131m. Styled bile\u015fenini kullanarak, daha \u00f6nce style taraf\u0131nda sahip olmad\u0131\u011f\u0131m bir deneyim kazand\u0131m. Ayr\u0131ca, monorepo deste\u011fi olan yap\u0131 sistemi Nx ve pnpm paket y\u00f6neticisiyle ilgili yeni deneyimler kazand\u0131m.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "startDate": "2022",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next Js"
+        }
+      ],
+      "title": "BigBagnGo",
+      "url": ""
+    },
+    {
+      "description": "Bu projede, d\u00fcnyan\u0131n d\u00f6rt bir yan\u0131ndaki CTO'lar\u0131n Frontend taraf\u0131nda Vue Js, Nuxt Js ve Wordpress ile birbirleriyle ileti\u015fim kurabilecekleri bir \u00fcr\u00fcn geli\u015ftiren ekipte Frontend geli\u015ftiricisi olarak yer ald\u0131m. Wordpress ve Nuxt Js sayfalar\u0131n\u0131n birlikte kullan\u0131ld\u0131\u011f\u0131 bir projeydi. WordPress Elementor taraf\u0131nda statik sayfalar geli\u015ftirme ve Nuxt js sayfalar\u0131 geli\u015ftirme i\u015flerinde yer ald\u0131m.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "startDate": "2021",
+      "technologies": [
+        {
+          "class": "devicon-nuxtjs-plain",
+          "name": "Nuxt Js"
+        },
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Elementor"
+        }
+      ],
+      "title": "Global CTO Forum",
+      "url": ""
+    }
+  ]
+}

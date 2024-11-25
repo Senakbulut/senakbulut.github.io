@@ -1,0 +1,213 @@
+{
+  "basic_info": {
+    "description": "\ud83d\udc4b I am a computer engineer who is constantly improving myself in the field of frontend and always eager to learn new skills. I took part in various projects with React Js and Vue Js developed myself most in this area.",
+    "description_header": "Hi",
+    "section_name": {
+      "about": "About me",
+      "experience": "Experience",
+      "projects": "Projects",
+      "skills": "Skills"
+    }
+  },
+  "experience": [
+    {
+      "company": "Ottoo",
+      "mainTech": [
+        "Vue Js"
+      ],
+      "technologies": [
+        "Vue Js",
+        "Quasar",
+        "Pinia",
+        "Nuxt Js",
+        "Typescript",
+        "Vuetify",
+        "Tailwind CSS"
+      ],
+      "title": "Front-End Developer",
+      "years": "03.2023 - present"
+    },
+    {
+      "company": "Radity",
+      "mainTech": [
+        "React Js"
+      ],
+      "technologies": [
+        "React Js",
+        "Next Js",
+        "Vue Js",
+        "Nuxt Js",
+        "Typescript"
+      ],
+      "title": "Front-End Developer",
+      "years": "09.2021 - 11.2022"
+    },
+    {
+      "company": "Foreks Digital Solutions",
+      "mainTech": [
+        "Vue Js"
+      ],
+      "technologies": [
+        "Vue Js",
+        "CSS"
+      ],
+      "title": "Front-End Intern",
+      "years": "02.2021 - 03.2021"
+    },
+    {
+      "company": "Nokia",
+      "mainTech": [
+        "Docker"
+      ],
+      "technologies": [
+        "Docker",
+        "Cisco Packet Tracer",
+        "Wireshark"
+      ],
+      "title": "Intern",
+      "years": "08.2020 - 09.2020"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Automotive Insights is a project that provides analytical tools for agencies in the automotive sector. It offers a useful dashboard to its users with features such as data analysis and personnel performance management.",
+      "images": [
+        "images/projects/automotiveinsights.png",
+        "images/projects/automotiveinsights.png"
+      ],
+      "startDate": "2024",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue Js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        },
+        {
+          "class": "devicon-vuetify-plain",
+          "name": "Vuetify"
+        }
+      ],
+      "title": "Automotive Insights",
+      "url": ""
+    },
+    {
+      "description": "Marinzon is an e-marketing site that provides sales of ship products. I had the opportunity to develop new features of this website from the beginning. ",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "startDate": "2024",
+      "technologies": [
+        {
+          "class": "devicon-nuxtjs-plain",
+          "name": "Nuxt Js"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        }
+      ],
+      "title": "Marinzon",
+      "url": ""
+    },
+    {
+      "description": "Remigo is a platform where clients and real estate agents can talk to each other and perform various transactions with listings. In this project, I took part as a Frontend developer in a team that develops real estate website with Vue Js, Javascript, Quasar and Pinia on the Frontend side",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "startDate": "2023",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue Js"
+        },
+        {
+          "class": "devicon-quasar-plain",
+          "name": "Quasar"
+        },
+        {
+          "class": "devicon-pinia-plain",
+          "name": "Pinia"
+        }
+      ],
+      "title": "Remigo",
+      "url": ""
+    },
+    {
+      "description": "In this project, I took part as a Frontend developer in a team that develops customer-based customizable insurance products with React Js, TypeScript and Material UI on the Frontend side.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "startDate": "2022",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        }
+      ],
+      "title": "Insurance Portal",
+      "url": ""
+    },
+    {
+      "description": "In this project, I took part as a Frontend developer in a team that develops products for a French company related to rubble recycling with React Js, Next Js and Typescript on the Frontend side. By using the Styled component, I gained experience that I did not have before on the style side. I also gained new experience with Nx, the build system with monorepo support, and the pnpm package manager.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "startDate": "2022",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next Js"
+        }
+      ],
+      "title": "BigBagnGo",
+      "url": ""
+    },
+    {
+      "description": "In this project, I took part as a Frontend developer in the team that developed a product where CTOs around the world can communicate with each other with Vue Js, Nuxt Js and Wordpress on the Frontend side. It was a project where Wordpress and Nuxt Js pages were used together. I have been involved in developing static pages on the WordPress Elementor side and developing Nuxt js pages.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "startDate": "2021",
+      "technologies": [
+        {
+          "class": "devicon-nuxtjs-plain",
+          "name": "Nuxt Js"
+        },
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Elementor"
+        }
+      ],
+      "title": "Global CTO Forum",
+      "url": ""
+    }
+  ]
+}
